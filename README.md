@@ -1,7 +1,6 @@
 # Drone Bootcamp — Interactive Landing Page
 
 An immersive, Arabic-first (RTL) landing page for a drone bootcamp in Riyadh. A real-time 3D globe highlights Saudi Arabia, and a procedurally built drone lifts off from Riyadh in a cinematic opening sequence, then accompanies the visitor through every section of the page.
----
 
 ## Highlights
 
