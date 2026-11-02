@@ -46,9 +46,3 @@ An immersive, Arabic-first (RTL) landing page for a drone bootcamp in Riyadh. A 
 
 Latest versions of Chrome, Edge, Safari, and Firefox with WebGL enabled.
 
----
-
-© 2026 Drone Bootcamp
-```
-
-ولو تبين أسهل، احذفي ملف `README.md` الحالي من GitHub، وارفعي ملف `README.md` اللي أرسلته لك قبل من **Add file** ثم **Upload files**. الملف فيه التنسيق كامل.
