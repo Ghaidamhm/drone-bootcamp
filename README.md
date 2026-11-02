@@ -1,12 +1,3 @@
-المشكلة إنك نسختي النص من المعاينة، فراحت منه رموز التنسيق مثل `#` و`-` و`|`. عشان كذا GitHub عرضه كفقرة وحدة طويلة بدون عناوين ولا قوائم ولا جدول.
-
-**الحل:**
-1. في صفحة المستودع اضغطي القلم ✏️ اللي جنب **README**.
-2. احذفي كل النص الموجود: **Cmd + A** ثم **Delete**.
-3. انسخي النص من المربع تحت بزر النسخ اللي في زاويته، والصقيه.
-4. اضغطي **Commit changes**.
-
-```markdown
 # Drone Bootcamp — Interactive Landing Page
 
 An immersive, Arabic-first (RTL) landing page for a drone bootcamp in Riyadh. A real-time 3D globe highlights Saudi Arabia, and a procedurally built drone lifts off from Riyadh in a cinematic opening sequence, then accompanies the visitor through every section of the page.
